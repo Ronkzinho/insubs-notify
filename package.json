@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "dotenv": "^8.2.0",
+    "htmlparser2": "^4.0.0",
+    "mongoose": "^5.7.13",
+    "nodemailer": "^6.4.0",
+    "request": "^2.88.0"
+  },
+  "name": "teste",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node src/index.js"
+  }
+}
